@@ -1,7 +1,7 @@
  # Projeto Jogo Genius
 Um jogo de memória criado, estilo o jogo Genius!<br> <br>
 
-<p aligns="center"> <img src="gif/Animação 1.gif" width="400" height="450">    <img src="gif/Animação 2.gif" width="400" height="450"> </p>
+<p aligns="center"> <img src="gif/animação.gif" width="800" height="600">     </p>
 
 ## Funcionalidades
 
