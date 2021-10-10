@@ -1,2 +1,25 @@
-# JOGOGENIUS
-Jogo genius
+ # Projeto Jogo Genius
+Um jogo de memória criado, estilo o jogo Genius!<br> <br>
+
+<p aligns="center"> <img src="gif/Animação 1.gif" width="400" height="450">    <img src="gif/Animação 2.gif" width="400" height="450"> </p>
+
+## Funcionalidades
+
+🗸 Tema mantido na página inteira <br>
+🗸Sistema de cores aleatórias para o usuário utilizar<br>
+🗸Mensagem com a pontuação<br>
+🗸Mensagem mostrando se está perdendo ou ganhando<br>
+
+
+## Linguagens utilizadas no projeto
+* Html
+* CSS
+* Java Script
+
+## Autor(a)
+
+| Rayra de Sousa <br>
+| rayratanisiadigital@gmail.com<br>
+| [Meu Linkedin](https://www.linkedin.com/in/rayra-tanisia-sousa-624578204/)
+
+Projeto  em construção😍🥰❤️🚧
